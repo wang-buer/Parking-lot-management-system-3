@@ -1,10 +1,4 @@
-# 停车场管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**停车场3** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 停车场管理系统3
 
 ## 1、项目介绍
 
@@ -31,43 +25,40 @@
 - 数据库类型：MySql（5.x和8.x版本都可） 
 - maven版本：无限制
 - 硬件环境：Windows 或者 Mac OS
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**停车场**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
 ## 4、功能介绍
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091618922.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208091618922.jpg)
 
 ### 4.2 其它模块
 
-![管理员-角色管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091618298.jpg)
+![管理员-角色管理](https://www.codeshop.fun/Typora-Images/202208091618298.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091618156.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208091618156.jpg)
 
-![管理员-车位管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091618376.jpg)
+![管理员-车位管理](https://www.codeshop.fun/Typora-Images/202208091618376.jpg)
 
-![管理员-IC卡类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091618170.jpg)
+![管理员-IC卡类型管理](https://www.codeshop.fun/Typora-Images/202208091618170.jpg)
 
-![管理员-添加进入停车场信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091620897.jpg)
+![管理员-添加进入停车场信息](https://www.codeshop.fun/Typora-Images/202208091620897.jpg)
 
-![管理员-停车信息查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091620720.jpg)
+![管理员-停车信息查询](https://www.codeshop.fun/Typora-Images/202208091620720.jpg)
 
-![管理员-添加临时车辆](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091620460.jpg)
+![管理员-添加临时车辆](https://www.codeshop.fun/Typora-Images/202208091620460.jpg)
 
-![管理员-车主出场信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091620790.jpg)
+![管理员-车主出场信息](https://www.codeshop.fun/Typora-Images/202208091620790.jpg)
 
-![结算](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091620182.jpg)
+![结算](https://www.codeshop.fun/Typora-Images/202208091620182.jpg)
 
 ### 4.3 文档目录
 
-![目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091620393.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词 ： **停车场3** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![目录](https://www.codeshop.fun/Typora-Images/202208091620393.jpg)
 
